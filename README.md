@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Coolis1362
-- 👀 I’m interested in: Making OSES
+- 👀 I’m interested in: Making OSes
 - 🌱 I’m currently learning: Python Coding
 - 📫 How to reach me: tadeotherocketbuilder@gmail.com
 - ⚡ Fun Fact: I'm The Maker of TS-DOS and TS-GUI
