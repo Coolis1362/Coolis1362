@@ -12,3 +12,6 @@ Hi! This Is Also Where I Publish My Softwares! I Hope you like them!
 
 [My YouTube](
 https://www.youtube.com/@andreallifevideostoo)
+
+Sorry That I Forgot To Chage My Status To "In School" Later I Will Actally Make The Status 
+On what I'm Actally Doing
