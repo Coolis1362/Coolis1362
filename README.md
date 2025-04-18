@@ -20,4 +20,4 @@ On what I'm Actally Doing
 
 ![Python GIF](https://github.com/Coolis1362/Coolis1362/blob/main/gifs/python-powered.gif)
 
-![JSON Gif]
+![JSON Gif](https://github.com/Coolis1362/Coolis1362/blob/main/gifs/download.gif)
