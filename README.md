@@ -23,3 +23,17 @@ On what I'm Actally Doing
 ![JSON Gif](https://github.com/Coolis1362/Coolis1362/blob/main/gifs/download.gif)
 
 TS-KERNEL WILL BE PINNED WITH THIS
+
+## My Devices
+
+I Have Two Devices, Windows and Linux Here Are The Devices.
+
+![Windows JPG](https://github.com/Coolis1362/Coolis1362/blob/main/jpgs/20250426_071351.jpg)
+
+![Linux Looking For Device](https://github.com/Coolis1362/Coolis1362/blob/main/jpgs/20250426_071444.jpg)
+
+![Linux Booting Kernel](https://github.com/Coolis1362/Coolis1362/blob/main/jpgs/20250426_071506.jpg)
+
+![Linux CLI (Bash)](https://github.com/Coolis1362/Coolis1362/blob/main/jpgs/20250426_071527.jpg)
+
+![Linux GLI (X Server)](https://github.com/Coolis1362/Coolis1362/blob/main/jpgs/20250426_071542.jpg)
