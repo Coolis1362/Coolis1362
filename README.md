@@ -37,3 +37,7 @@ I Have Two Devices, Windows and Linux Here Are The Devices.
 ![Linux CLI (Bash)](https://github.com/Coolis1362/Coolis1362/blob/main/jpgs/20250426_071527.jpg)
 
 ![Linux GLI (X Server)](https://github.com/Coolis1362/Coolis1362/blob/main/jpgs/20250426_071542.jpg)
+
+Here's The TS-KERNEL Release Plan!
+
+![TS-KERNEL RELEASE PLAN](https://github.com/Coolis1362/Coolis1362/blob/main/pngs/Screenshot%202025-05-01%20173529.png)
