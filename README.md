@@ -40,4 +40,4 @@ I Have Two Devices, Windows and Linux Here Are The Devices.
 
 Here's The TS-KERNEL Release Plan!
 
-![TS-KERNEL RELEASE PLAN](https://github.com/Coolis1362/Coolis1362/blob/main/pngs/Screenshot%202025-05-01%20173529.png)
+![TS-KERNEL RELEASE PLAN](https://github.com/Coolis1362/Coolis1362/blob/main/pngs/Screenshot%202025-05-06%20184749.png)
