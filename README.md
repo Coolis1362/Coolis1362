@@ -41,3 +41,9 @@ I Have Two Devices, Windows and Linux Here Are The Devices.
 Here's The TS-KERNEL Release Plan!
 
 ![TS-KERNEL RELEASE PLAN](https://github.com/Coolis1362/Coolis1362/blob/main/pngs/Screenshot%202025-05-06%20184749.png)
+
+## Join My Teams Community
+
+I Don't Use Dsicord But I Use Teams And they are A Same Thing! So Here's My Teams!:
+
+[My Teams](https://teams.live.com/l/community/FAA349azlMypIwO7gI)
