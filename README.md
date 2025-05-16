@@ -50,4 +50,4 @@ I Don't Use Dsicord But I Use Teams And they are A Same Thing! So Here's My Team
 
 [My Teams](https://teams.live.com/l/community/FAA349azlMypIwO7gI)
 
-Soory I Lied, When Me and My Dad Was Going to The Place Where I Took Swimign Classes There Was No Swiming Classes, Soory 🥲
+Sorry I Lied, When Me and My Dad Was Going to The Place Where I Took Swimign Classes There Was No Swiming Classes, Sorry 🥲
