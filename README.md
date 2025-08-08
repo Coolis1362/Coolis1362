@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @Coolis1362
 - 👀 I’m interested in: Making OSes
-- 🌱 I’m currently learning: Python Coding
+- 🌱 I’m currently learning: C# and some C++
 - 📫 How to reach me: Gmail: [tadeotherocketbuilder@gmail.com](mailto://tadeotherocketbuilder@gmail.com) Microsoft: [tadeotherocketbuilder@outlook.com](mailto://tadeotherocketbuilder@outlook.com)
 - ⚡ Fun Fact: I'm The Maker of TS-DOS and TS-GUI
 <!---
@@ -51,3 +51,4 @@ I Don't Use Dsicord But I Use Teams And they are A Same Thing! So Here's My Team
 [My Teams](https://teams.live.com/l/community/FAA349azlMypIwO7gI)
 
 Sorry I Lied, When Me and My Dad Was Going to The Place Where I Took Swimign Classes There Was No Swiming Classes, Sorry 🥲
+
