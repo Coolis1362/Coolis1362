@@ -15,14 +15,9 @@ Hi! This Is Also Where I Publish My Softwares! I Hope you like them!
 [My YouTube](
 https://www.youtube.com/@andreallifevideostoo)
 
-Sorry That I Forgot To Chage My Status To "In School" Later I Will Actally Make The Status
-On what I'm Actally Doing
-
 ![Python GIF](https://github.com/Coolis1362/Coolis1362/blob/main/gifs/python-powered.gif)
 
 ![JSON Gif](https://github.com/Coolis1362/Coolis1362/blob/main/gifs/download.gif)
-
-TS-KERNEL WILL BE PINNED WITH THIS
 
 ## My Devices
 
@@ -44,11 +39,10 @@ Here's The TS-KERNEL Release Plan!
 
 ![TS-KERNEL RELEASE PLAN](https://github.com/Coolis1362/Coolis1362/blob/main/pngs/Screenshot%202025-05-10%20124811.png)
 
+INFO: i don't work on TS-KERNEL anymore, I now work in C# and some C++.
+
 ## Join My Teams Community
 
-I Don't Use Dsicord But I Use Teams And they are A Same Thing! So Here's My Teams!:
+I Don't Use Discord But I Use Teams And they are A Same Thing! So Here's My Teams!:
 
 [My Teams](https://teams.live.com/l/community/FAA349azlMypIwO7gI)
-
-Sorry I Lied, When Me and My Dad Was Going to The Place Where I Took Swimign Classes There Was No Swiming Classes, Sorry 🥲
-
