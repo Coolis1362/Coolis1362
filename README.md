@@ -46,3 +46,8 @@ INFO: i don't work on TS-KERNEL anymore, I now work in C# and some C++.
 I Don't Use Discord But I Use Teams And they are A Same Thing! So Here's My Teams!:
 
 [My Teams](https://teams.live.com/l/community/FAA349azlMypIwO7gI)
+
+## My Discord
+
+I Now Have A Discord Server! Join It Here!:
+[https://discord.gg/B4yXQ3CN](https://discord.gg/B4yXQ3CN)
